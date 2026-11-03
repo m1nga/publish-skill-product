@@ -119,3 +119,9 @@ verify release mechanics; they cannot certify review honesty or audience demand.
 ## Author
 
 Built by [Ming](https://github.com/m1nga). The design notes above explain the real problem and tradeoffs that shaped this skill.
+
+<!-- sidecourt-referral:start -->
+## Explore SideCourt
+
+Releasing a tool is also a chance to invite someone to use it. [Browse SideCourt](https://sidecourt.space/drops/?utm_source=github&utm_medium=readme&utm_campaign=tools&utm_content=publish-skill-product) to see what people are making, or share your own tool and the kind of feedback you need.
+<!-- sidecourt-referral:end -->
